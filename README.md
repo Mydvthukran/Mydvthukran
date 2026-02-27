@@ -1,4 +1,7 @@
 # Hi 👋 I'm Manish Yadav
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mydvthukran&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mydvthukran&theme=radical)
-![](https://komarev.com/ghpvc/?username=Mydvthukran)
+
+![GitHub stats](https://github-readme-stats-pearl-nu-11.vercel.app/api?username=mydvthukran&show_icons=true&theme=radical&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mydvthukran&theme=radical&background=00000000)
+
+![](https://komarev.com/ghpvc/?username=mydvthukran&color=blueviolet)
