@@ -1,4 +1,5 @@
 # Hi 👋 I'm Manish Yadav
+![GitHub Stats](https://github-stats-api-six.vercel.app/api?username=mydvthukran)
 
 ![GitHub stats](https://github-readme-stats-pearl-nu-11.vercel.app/api?username=mydvthukran&show_icons=true&theme=radical&bg_color=00000000)
 
