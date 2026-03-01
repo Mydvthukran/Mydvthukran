@@ -48,13 +48,7 @@ const manish = {
 ![GitHub Stats](https://github-stats-api-six.vercel.app/api?username=mydvthukran)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mydvthukran&theme=radical&background=00000000&hide_border=true&cachebust=1)
-```
 
-The difference is **capital M** in `Mydvthukran` — the service treats `mydvthukran` and `Mydvthukran` as different cache keys, so switching the case forces it to fetch fresh data.
-
-Also you can try opening this URL directly in your browser to force a cache refresh:
-```
-https://streak-stats.demolab.com/?user=Mydvthukran&cachebust=1
 </div>
 
 ---
