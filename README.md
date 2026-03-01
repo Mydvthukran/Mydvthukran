@@ -98,7 +98,7 @@ const manish = {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mydvthukran&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-trophies.vercel.app/?username=Mydvthukran&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
