@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manish+Yada[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Manish+Yadav;Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/manish-yadav-483613323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/manishyadavthukran/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -73,7 +73,7 @@ const manish = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mydvthukran&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)](https://github.com/ashutosh00710/github-[...]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mydvthukran&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
