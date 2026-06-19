@@ -39,15 +39,6 @@ const manish = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 Stats & Streak
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-api-six.vercel.app/api?username=mydvthukran)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mydvthukran&theme=radical&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
