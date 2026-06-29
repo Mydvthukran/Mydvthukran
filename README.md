@@ -60,15 +60,7 @@ const manish = {
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mydvthukran&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <div align="center">
 
