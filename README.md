@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=150&section=header&text=Manish%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Full-Stack+Builder;React+%2B+Node.js+%2B+Cybersecurity;Building+things%2C+breaking+things%2C+fixing+things.;Hackathons+%E2%80%A2+AI+%E2%80%A2+Automation+%E2%80%A2+Security" alt="Typing animation" /></a>
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Full-Stack+Builder;React+%2B+Node.js+%2B+Cybersecurity;Building+things%2C+breaking+things%2C+fixing+things.;Hackathons+%E2%80%A2+AI+%E2%80%A2+Automation+%E2%80%A2+Security" alt="Typing animation" /></a>
 
 <p>
   <a href="https://manishthukran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -59,9 +59,7 @@ Exploring automation products that connect software, APIs and AI to remove repet
 ## 🧰 `toolbox`
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=js,python,c,cpp,html,css,react,vite,nodejs,express,mongodb,git,github,vercel,linux&perline=8" alt="Tech stack"/>
-
 </p>
 
 ---
@@ -69,16 +67,16 @@ Exploring automation products that connect software, APIs and AI to remove repet
 ## 📊 `github_data`
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mydvthukran&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mydvthukran&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Languages by percentage"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mydvthukran&theme=tokyonight&animation=load" alt="GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mydvthukran&theme=tokyonight&animation=draw" alt="Languages by percentage"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Mydvthukran&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Mydvthukran&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mydvthukran&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mydvthukran&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies"/>
 </p>
 
 ---
