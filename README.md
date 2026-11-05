@@ -108,17 +108,13 @@ A live snapshot of the tools I build with, the work I contribute, and the hours 
 
 ### How to read my commit-time graph
 
-The **Commits (Asia/Calcutta)** chart is a 24-hour view of when commits were recorded. It uses Indian Standard Time (IST), so the hour labels match the local clock in India.
+<div align="center">
 
-| Graph element | What it tells you |
-|---|---|
-| **Horizontal axis (0–23)** | Hour of the day, from midnight to 11 PM |
-| **Vertical axis** | Number of commits recorded in that hour |
-| **Each purple bar** | Commit count for one hour across the data period |
-| **Tallest bar** | The hour with the most commits recorded |
-| **Timezone** | Asia/Kolkata / IST (UTC+5:30) |
+<img src="./commit-activity-explainer.svg" width="100%" alt="Visual guide explaining the commit-time chart: commit count on the vertical axis, hours 00 to 23 IST on the horizontal axis, one bar per hour, and the tallest bar as the peak commit hour. The bars in this guide are illustrative, not live data."/>
 
-**A useful distinction:** this graph measures commit timestamps, not actual coding time. A long coding session with one commit appears as one commit; several small commits can create several counts. Treat it as an activity pattern, not a productivity score.
+</div>
+
+The live chart above shows your actual commit pattern. This visual guide explains how to read it: **bar height = commits recorded in that hour; it does not represent hours spent coding.**
 
 ### What the other cards show
 
