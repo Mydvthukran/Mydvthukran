@@ -85,7 +85,7 @@ A deeper look at the code in my public repositories, the languages I use, and my
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=normal&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Up to 20 programming languages used across public repositories"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=normal&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Up to 20 programming languages used across public repositories"/>
 
 <br/><br/>
 
@@ -103,7 +103,7 @@ A deeper look at the code in my public repositories, the languages I use, and my
 <br/><br/>
 
 <img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mydvthukran&theme=tokyonight" alt="GitHub commits, pull requests, issues and stars"/>
-<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mydvthukran&theme=tokyonight&utcOffset=5.5" alt="Most active coding hours in Indian Standard Time"/>
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mydvthukran&theme=tokyonight&timeZone=Asia%2FKolkata" alt="Most active coding hours in Indian Standard Time"/>
 
 <br/><br/>
 
