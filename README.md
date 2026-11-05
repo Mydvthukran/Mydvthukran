@@ -106,15 +106,9 @@ A live snapshot of the tools I build with, the work I contribute, and the hours 
 
 </div>
 
-### How to read my commit-time graph
+### Commit activity · India Standard Time (IST)
 
-<div align="center">
-
-<img src="./commit-activity-explainer.svg" width="100%" alt="Visual guide explaining the commit-time chart: commit count on the vertical axis, hours 00 to 23 IST on the horizontal axis, one bar per hour, and the tallest bar as the peak commit hour. The bars in this guide are illustrative, not live data."/>
-
-</div>
-
-The live chart above shows your actual commit pattern. This visual guide explains how to read it: **bar height = commits recorded in that hour; it does not represent hours spent coding.**
+<sub>**Read the graph:** left → right = 00:00–23:00 IST · each bar = commits recorded in that hour · taller bar = more commits · tallest bar = your busiest commit hour. This measures commit activity, not hours spent coding.</sub>
 
 ### What the other cards show
 
