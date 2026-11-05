@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,100:0891B2&height=190&section=header&text=MANISH%20YADAV&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20FOR%20THE%20WEB%20%7C%20LEARNING%20SECURITY%20%7C%20SHIPPING%20PROJECTS&descSize=13&descAlignY=61&animation=fadeIn" width="100%" alt="Manish Yadav profile banner"/>
 
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Automation+Builder;DSA+Learner+%7C+Problem+Solver;Build.+Break.+Understand.+Improve." alt="Typing introduction"/>
+</a>
+
+<br/><br/>
+
 <a href="https://manishthukran.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
@@ -13,100 +19,63 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Mydvthukran&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/><br/>
-
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Frontend+Developer+%7C+Full-Stack+Builder;React+%2B+Node.js+%2B+Cybersecurity;Build+it.+Break+it.+Understand+it.+Improve+it.;Always+learning%2C+always+shipping." alt="Typing introduction"/>
-</a>
-
 </div>
 
 ---
-
-## About me
-
-I'm a Computer Science student and frontend-focused full-stack developer who enjoys turning ideas into useful products. I build web interfaces, APIs, dashboards and hackathon prototypes—and I'm exploring cybersecurity, AI and automation along the way.
-
-- Currently building with **JavaScript, React, Node.js and Express**
-- Exploring **MongoDB, cybersecurity, AI and workflow automation**
-- Interested in **open source, practical engineering and collaborative projects**
-- Personal approach: **build → break → debug → understand → ship**
 
 ## What I work on
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Frontend engineering</h3>
-      Responsive interfaces, reusable components, animations and data-rich dashboards.
+      <h3>Cybersecurity</h3>
+      Exploring ethical hacking, vulnerability assessment, threat detection, phishing analysis and network security.
     </td>
     <td width="50%" valign="top">
-      <h3>Full-stack development</h3>
-      REST APIs, server-side logic, database integration and end-to-end project delivery.
+      <h3>Full-Stack Development</h3>
+      Building complete web applications with responsive interfaces, backend APIs, authentication and database integration.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cybersecurity</h3>
-      Learning security fundamentals, threat detection, phishing analysis and network monitoring.
+      <h3>AI & Automation</h3>
+      Experimenting with AI-powered tools, intelligent workflows, API integrations and automation that solves practical problems.
     </td>
     <td width="50%" valign="top">
-      <h3>AI & automation</h3>
-      Exploring AI-powered features and workflows that reduce repetitive work.
+      <h3>Data Structures & Algorithms</h3>
+      Strengthening problem-solving skills through data structures, algorithms, complexity analysis and writing efficient code.
     </td>
   </tr>
 </table>
 
-## Tech stack
+## How I work
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp,html,css" alt="Languages"/>
-
-**Frameworks & runtime**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" alt="Frameworks and runtime"/>
-
-**Tools & platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vercel,linux" alt="Tools and platforms"/>
-
-</div>
-
-## Selected projects
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://manishthukran.vercel.app/">Portfolio</a></h3>
-      A personal React portfolio with motion, custom interactions, audio and hidden Easter eggs.
-      <br/><br/>
-      <sub>React · GSAP · Framer Motion</sub>
+    <td align="center" width="25%">
+      <h3>01 · Explore</h3>
+      Understand the problem, research the requirements and plan a practical approach.
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://class-track-seven.vercel.app/">ClassTrack</a></h3>
-      A schedule and productivity dashboard that highlights workload, free study blocks, conflicts and insights.
-      <br/><br/>
-      <sub>React · Recharts · Data visualization</sub>
+    <td align="center" width="25%">
+      <h3>02 · Build</h3>
+      Turn ideas into working features with clean, maintainable code.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Cyber Defense</h3>
-      A security-monitoring concept exploring traffic analysis, detection rules, anomaly signals and alerts.
-      <br/><br/>
-      <sub>Cybersecurity · AI · Monitoring</sub>
+    <td align="center" width="25%">
+      <h3>03 · Test</h3>
+      Debug, test edge cases and think about security, performance and usability.
     </td>
-    <td width="50%" valign="top">
-      <h3>Automation Guys</h3>
-      Exploring automation products that connect software, APIs and AI to simplify repetitive business tasks.
-      <br/><br/>
-      <sub>Automation · APIs · AI</sub>
+    <td align="center" width="25%">
+      <h3>04 · Improve</h3>
+      Learn from feedback, refine the solution and keep making it better.
     </td>
   </tr>
 </table>
+
+**Explore → Build → Test → Improve**
+
+</div>
 
 ## GitHub activity
 
@@ -137,13 +106,28 @@ I'm a Computer Science student and frontend-focused full-stack developer who enj
 
 ---
 
+## Contact me
+
 <div align="center">
 
-### Build → Break → Understand → Build Better.
+Have an idea, want to collaborate, or just talk tech? Feel free to reach out.
 
-<a href="https://manishthukran.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/manish-yadav-483613323/">LinkedIn</a> ·
-<a href="mailto:my3596418@gmail.com">Email</a>
+<a href="https://manishthukran.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0891B2?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/manish-yadav-483613323/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:my3596418@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Mydvthukran">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### Build → Break → Understand → Build Better.
 
 <sub>Thanks for stopping by. Feel free to explore my repositories or collaborate on something interesting.</sub>
 
