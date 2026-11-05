@@ -79,32 +79,52 @@
 
 ## GitHub activity & languages
 
-A deeper look at the code in my public repositories, the languages I use, and my contribution activity.
+A live snapshot of the tools I build with, the work I contribute, and the hours when my GitHub commits usually happen.
 
-### Languages across my repositories
+### Language footprint
 
 <div align="center">
 
-<img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=compact&card_width=680&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Up to 20 programming languages used across public repositories"/>
-
-<br/><br/>
+<img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=compact&card_width=680&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Top programming languages across public repositories"/>
 
 </div>
 
-### Coding activity
+<sub>The card lists up to 20 languages detected in my public repositories. It reflects the code present in those repositories—not the number of hours I have spent learning each language.</sub>
+
+---
+
+### Contribution dashboard
 
 <div align="center">
 
-<br/><br/>
-
-<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mydvthukran&theme=tokyonight" alt="GitHub commits, pull requests, issues and stars"/>
-<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mydvthukran&theme=tokyonight&timeZone=Asia%2FKolkata" alt="Most active coding hours in Indian Standard Time"/>
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mydvthukran&theme=tokyonight" alt="GitHub contribution and repository statistics"/>
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mydvthukran&theme=tokyonight&timeZone=Asia%2FKolkata" alt="Commits by hour in India Standard Time"/>
 
 <br/><br/>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=Mydvthukran&hide_border=true&theme=tokyonight" alt="GitHub contribution streak"/>
 
 </div>
+
+### How to read my commit-time graph
+
+The **Commits (Asia/Calcutta)** chart is a 24-hour view of when commits were recorded. It uses Indian Standard Time (IST), so the hour labels match the local clock in India.
+
+| Graph element | What it tells you |
+|---|---|
+| **Horizontal axis (0–23)** | Hour of the day, from midnight to 11 PM |
+| **Vertical axis** | Number of commits recorded in that hour |
+| **Each purple bar** | Commit count for one hour across the data period |
+| **Tallest bar** | The hour with the most commits recorded |
+| **Timezone** | Asia/Kolkata / IST (UTC+5:30) |
+
+**A useful distinction:** this graph measures commit timestamps, not actual coding time. A long coding session with one commit appears as one commit; several small commits can create several counts. Treat it as an activity pattern, not a productivity score.
+
+### What the other cards show
+
+- **GitHub stats:** a snapshot of profile activity such as commits, pull requests, issues and stars.
+- **Contribution streak:** consecutive days with qualifying GitHub contributions.
+- **Language footprint:** the languages that make up the code in my public repositories.
 
 ### Areas I explore
 
