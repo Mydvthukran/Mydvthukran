@@ -89,16 +89,11 @@ A deeper look at the code in my public repositories, the languages I use, and my
 
 <br/><br/>
 
-<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mydvthukran&theme=tokyonight" alt="Language distribution by repository"/>
-<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mydvthukran&theme=tokyonight" alt="Languages represented in commits"/>
-
 </div>
 
 ### Coding activity
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mydvthukran&theme=tokyonight" alt="GitHub contribution activity over time"/>
 
 <br/><br/>
 
