@@ -85,7 +85,7 @@ A deeper look at the code in my public repositories, the languages I use, and my
 
 <div align="center">
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=normal&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Up to 20 programming languages used across public repositories"/>
+<img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=compact&card_width=680&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Up to 20 programming languages used across public repositories"/>
 
 <br/><br/>
 
