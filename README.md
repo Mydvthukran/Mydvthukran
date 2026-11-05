@@ -77,18 +77,56 @@
 
 </div>
 
-## GitHub activity
+## GitHub activity & languages
+
+A deeper look at the code in my public repositories, the languages I use, and my contribution activity.
+
+### Languages across my repositories
 
 <div align="center">
 
-<img height="175" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mydvthukran&theme=tokyonight" alt="GitHub statistics"/>
-<img height="175" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mydvthukran&theme=tokyonight" alt="Top languages by repository"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Mydvthukran&hide_border=true&theme=tokyonight" alt="GitHub contribution streak"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mydvthukran&langs_count=20&layout=normal&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Up to 20 programming languages used across public repositories"/>
 
 <br/><br/>
+
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mydvthukran&theme=tokyonight" alt="Language distribution by repository"/>
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mydvthukran&theme=tokyonight" alt="Languages represented in commits"/>
+
+</div>
+
+### Coding activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mydvthukran&theme=tokyonight" alt="GitHub contribution activity over time"/>
+
+<br/><br/>
+
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mydvthukran&theme=tokyonight" alt="GitHub commits, pull requests, issues and stars"/>
+<img height="190" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mydvthukran&theme=tokyonight&utcOffset=5.5" alt="Most active coding hours in Indian Standard Time"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Mydvthukran&hide_border=true&theme=tokyonight" alt="GitHub contribution streak"/>
+
+</div>
+
+### Areas I explore
+
+<div align="center">
+
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-2563EB?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge)
+![AI & Automation](https://img.shields.io/badge/AI_%26_Automation-7C3AED?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA_%26_Problem_Solving-0891B2?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-0F766E?style=for-the-badge)
+![IoT & Robotics](https://img.shields.io/badge/IoT_%26_Robotics-475569?style=for-the-badge)
+
+</div>
+
+### GitHub achievements
+
+<div align="center">
 
 <img width="100%" src="https://github-trophies.devomb.com/?username=Mydvthukran&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievements and trophies"/>
 
