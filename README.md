@@ -89,7 +89,6 @@ A live snapshot of the tools I build with, the work I contribute, and the hours 
 
 </div>
 
-<sub>The card lists up to 20 languages detected in my public repositories. It reflects the code present in those repositories—not the number of hours I have spent learning each language.</sub>
 
 ---
 
